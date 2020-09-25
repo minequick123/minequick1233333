@@ -15,6 +15,9 @@ Comments start with a #, and Python will render the rest of the line as a commen
 #this is a comment
 print("Hello, World!")
 
+black = "what, that"
+print(black.strip())
+
 #Comments can be placed at the end of a line, and Python will ignore the rest of the line:
 print("Hello, World!") #this is a comment
 
